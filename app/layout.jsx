@@ -24,7 +24,7 @@ export default function RootLayout({ children }) {
       <body
         className={`${jetbrainsMono.variable} transition-colors duration-300 bg-background text-foreground dark:bg-background-dark dark:text-foreground-dark`}
       >
-        <ThemeProvider attribute="class" defaultTheme="system" enableSystem>
+        <ThemeProvider attribute="class" defaultTheme="dark" enableSystem={false}>
           <Header />
           <StairTransition />
           <PageTransition>{children}</PageTransition>
