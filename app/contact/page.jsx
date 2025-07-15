@@ -43,9 +43,9 @@ const Contact = () => {
               method="POST"
               className="flex flex-col gap-6 p-10 bg-[#27272c] rounded-xl"
             >
-              <h3 className="text-4xl text-accent">I'm open to opportunities</h3>
+              <h3 className="text-4xl text-accent">I’m open to opportunities</h3>
               <p className="text-white/60">
-                Whether you're hiring for a role or need a freelance collaborator, feel free to get in touch.
+                Whether you’re hiring for a role or need a freelance collaborator, feel free to get in touch.
               </p>
 
               <input type="hidden" name="_subject" value="New opportunity inquiry" />

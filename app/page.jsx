@@ -49,7 +49,7 @@ const Home = () => {
             </h1>
 
             <p className="max-w-[520px] mb-9 mx-auto xl:mx-0 text-muted dark:text-muted-dark">
-              I'm a problem-solver at heart who enjoys building performant,
+              I’m a problem-solver at heart who enjoys building performant,
               scalable systems with delightful user experiences — from front-end
               to DevOps pipelines.
             </p>

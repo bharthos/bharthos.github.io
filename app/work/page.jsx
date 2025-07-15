@@ -105,7 +105,7 @@ const Work = () => {
       }, 4000);
       return () => clearInterval(interval);
     }
-  }, [projectIndex]);
+  }, [project.images]);
 
   const handleSlideChange = (swiper) => {
     setProjectIndex(swiper.activeIndex);
