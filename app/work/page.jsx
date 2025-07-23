@@ -63,7 +63,7 @@ const projects = [
       { name: "Matplotlib" }, { name: "Ensemble ML" },
     ],
     images: ["/assets/work/loanwise-preview.jpg"],
-    github: ""
+    github: "https://github.com/bharthos/LoanWise-ML-Loan-Approval-Platform"
   },
   {
     num: "05",
