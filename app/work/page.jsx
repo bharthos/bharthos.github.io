@@ -76,7 +76,7 @@ const projects = [
     { name: "Wavelet Transform" }, { name: "ANOVA" }, { name: "Pandas" }, { name: "Scikit-learn" }
   ],
   images: ["/assets/work/neurodetectai-preview.jpg"], // Replace with your actual image path
-  github: "", // Add your GitHub repo link here
+  github: "https://github.com/bharthos/NeuroDetectAI-Epileptic-Seizure-Detection.git", // Add your GitHub repo link here
   fitMode: "contain"
 },
   {
