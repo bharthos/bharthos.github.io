@@ -89,7 +89,7 @@ const projects = [
       { name: "Airflow" }, { name: "React" }, { name: "MongoDB" }
     ],
     images: ["/assets/work/airscanai-preview.jpg"],
-    github: "",
+    github: "https://github.com/bharthos/AirScanAI.git",
     fitMode: "contain"
   },
   {
