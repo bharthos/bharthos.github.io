@@ -66,7 +66,21 @@ const projects = [
     github: "https://github.com/bharthos/LoanWise-ML-Loan-Approval-Platform"
   },
   {
-    num: "05",
+  num: "05",
+  title: "NeuroDetectAI",
+  description:
+    "NeuroDetectAI is a machine learning-driven platform for real-time epileptic seizure detection using EEG data. It streamlines preprocessing, feature extraction (DWT, Hurst Exponent), and model evaluation (XGBoost, SVM, Logistic Regression) — delivering precise seizure classification with over 98% accuracy. A promising leap toward AI-powered clinical diagnostics.",
+  stack: [
+    { name: "Python" }, { name: "XGBoost" }, { name: "SVM" },
+    { name: "Logistic Regression" }, { name: "Decision Tree" },
+    { name: "Wavelet Transform" }, { name: "ANOVA" }, { name: "Pandas" }, { name: "Scikit-learn" }
+  ],
+  images: ["/assets/work/neurodetectai-preview.jpg"], // Replace with your actual image path
+  github: "", // Add your GitHub repo link here
+  fitMode: "contain"
+},
+  {
+    num: "06",
     title: "AirScanAI",
     description: "AirScanAI is a futuristic air quality intelligence system that fuses big data and machine learning to predict AQI levels with uncanny precision. It integrates real-time sensor streams, meteorological inputs, and geospatial awareness to forecast environmental conditions — enabling proactive health interventions and smarter urban planning.",
     stack: [
@@ -79,7 +93,7 @@ const projects = [
     fitMode: "contain"
   },
   {
-    num: "06",
+    num: "07",
     title: "CricketIQ",
     description: "Machine learning-powered T20I match outcome predictor using weather, venue, and home advantage analytics with Random Forests.",
     stack: [
