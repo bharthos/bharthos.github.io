@@ -101,7 +101,7 @@ const projects = [
       { name: "R" }, { name: "Seaborn" },
     ],
     images: ["/assets/work/cricketiq-chart.jpg"],
-    github: "",
+    github: "https://github.com/bharthos/CricketIQ.git",
     fitMode: "contain"
   }
 ];
