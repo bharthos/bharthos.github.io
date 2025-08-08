@@ -57,7 +57,7 @@ const Home = () => {
             {/* buttons & socials */}
             <div className="flex flex-col xl:flex-row items-center gap-6">
               <a
-                href="/BharathRajuKM.pdf"
+                href="/BharathRaju_Long.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
               >
