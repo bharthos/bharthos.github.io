@@ -34,11 +34,11 @@ const Home = () => {
                   sequence={[
                     "Bharath Raju K.M",
                     1500,
-                    "a Full-Stack Developer",
+                    "a Software Engineer – Cloud, Data & DevOps",
                     1500,
-                    "a Cloud Engineer",
+                    "a Data Analytics Engineering Specialist",
                     1500,
-                    "a Curious Technologist",
+                    "a AI & Automation Innovator",
                     1500,
                   ]}
                   wrapper="span"
