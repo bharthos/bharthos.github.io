@@ -36,6 +36,11 @@ const experience = {
     "Over the past few years, I’ve bounced between roles that challenged me, taught me a lot, and let me build some cool stuff...",
   items: [
     {
+      company: "Volgenau College of Engineering and Computing",
+      position: "Data Analyst",
+      duration: "July 2025 - Present",
+    },
+    {
       company: "GMU CEC",
       position: "Full-Stack Developer",
       duration: "Nov 2023 - May 2025",
